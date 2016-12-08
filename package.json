@@ -1,6 +1,6 @@
 {
   "name": "agentgirl",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "AgentGirl Factory Object for testing Dystopia Rising character build.",
   "main": "AgentGirl.js",
   "dependencies": {
