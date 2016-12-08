@@ -1,0 +1,30 @@
+{
+  "name": "agentgirl",
+  "version": "0.0.1",
+  "description": "AgentGirl Factory Object for testing Dystopia Rising character build.",
+  "main": "AgentGirl.js",
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbudiman/agentgirl.git"
+  },
+  "keywords": [
+    "dystopia_rising",
+    "test",
+    "factory",
+    "chai",
+    "expect"
+  ],
+  "author": "Gloria Budiman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gbudiman/agentgirl/issues"
+  },
+  "homepage": "https://github.com/gbudiman/agentgirl#readme"
+}
